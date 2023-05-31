@@ -1,7 +1,9 @@
 # 벌써 12시 쇼핑몰
+
 > 엘리스 AI트랙 6기 12팀
 
 ## 소개
+
 - 서비스명 : 벌써 12시 쇼핑몰
 - 개발기간 : 2023.01.30 ~ 2023.02.10
 - 주제: 아이들 선물 단체 구매 쇼핑몰
@@ -9,7 +11,8 @@
 
 ## 리팩토링
 
-- 20230501 : 12back에서 app.js 설정 변경하여 서버 연결 성공
+- back에서 app.js 설정 변경하여 서버 연결 성공
+- front css 추가수정
 
 ## 직접 구현한 기능
 
@@ -26,6 +29,7 @@
 ## 기술 스택
 
 ### 프론트엔드
+
 <div> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -34,6 +38,7 @@
 </div>
 
 ### 백엔드
+
 <div> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
